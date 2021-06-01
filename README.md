@@ -1,2 +1,2 @@
 # utils
-hope it to help you develop
+hope it can help you develop

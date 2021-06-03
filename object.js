@@ -1,0 +1,1 @@
+export const sortObject = (obj) => Object.keys(obj).sort().reduce((prv, cur) => ({ ...prv, [cur]: obj[cur] }), {});
